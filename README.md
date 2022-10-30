@@ -1,2 +1,2 @@
 # final.task
-A101 test otomasyon program sonu talep edilen final projesi
+Patika.dev A101 test otomasyon programı sonunda talep edilen final projesi
