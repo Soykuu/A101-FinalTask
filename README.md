@@ -1,4 +1,4 @@
-<a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="100" height="70"/> </a>   
+<a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="90" height="60"/> </a>   
 
 # A101 Test Ototmasyon Practicum - Final Case
 
