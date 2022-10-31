@@ -1,4 +1,6 @@
-<a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="50" height="30"/> </a>   **Test Ototmasyon Practicum Final Case**
+<a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="100" height="70"/> </a>   
+
+# A101 Test Ototmasyon Practicum - Final Case
 
 **İçerik:** Patika.dev ve A101 iş birliği ile hazırlanan test otomasyon programı sonunda talep edilen final projesidir.
 
@@ -10,7 +12,7 @@ Test01 - Kullanıcı Girişi Yapılmadan Sepete Ürün Ekleme Testi
 </p>
 
 <ul>
-<li>HepsiBurada sayfasına gidilir.</li>
+<li>Hepsiburada.com sayfasına gidilir.</li>
 <li>Çerezler kabul edilir.</li>
 <li>Ürün arama çubuğunda aratılır.</li>
 <li>Ürün seçilir.</li>
@@ -26,7 +28,7 @@ Test02 - Kullanıcı Girişi Yapılarak Sepete Ürün Ekleme Testi
 </p>
 
 <ul>
-<li>HepsiBurada sayfasına gidilir.</li>
+<li>Hepsiburada.com sayfasına gidilir.</li>
 <li>Çerezler kabul edilir.</li>
 <li>Login butonuna tıklanır.</li>
 <li>Facebook ile giriş yapılır.</li>
