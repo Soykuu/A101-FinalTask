@@ -51,6 +51,8 @@ Test02 - Kullanıcı Girişi Yapılarak Sepete Ürün Ekleme Testi
 
 **Maven:** Java platformunda yer alan komutların derlenmesi, kütüphanelerin oluşturulması sırasında kullanılan araçtır.
 
+**JUnit:** Java tabanlı kodların test edilmesi için kullanılan bir Unit Test (Birim Testi) kütüphanesidir.
+
 ## Test Koşum Videosu
 
 <a href="https://www.loom.com/share/d8cb36cbf84d4f258934178bf5fc0b4b"/>Final Case Loom Video</a>
