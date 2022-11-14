@@ -45,9 +45,9 @@ public class FinalCase<string> {
       driver.switchTo().window(tabs.get(1));
 
            driver.findElement(By.xpath("//button[@class='button big with-icon']")).click(); //her seferinde satıcı değişiyor,ana sayfada açılan ürünü sepete ekliyoruz
-           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-2iZXl']")).click();
+           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']")).click();  //çarpı butonu
            driver.findElement(By.xpath("//button[@class='add-to-basket button small']")).click(); //her seferinde satıcı değişiyor,diğer satıcılardan aynı ürünü sepete ekliyoruz
-           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-2iZXl']")).click();
+           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']")).click();  //çarpı butonu
            driver.findElement(By.xpath("//span[@id='shoppingCart']")).click();
 
            WebElement ürünAdı = driver.findElement(By.xpath("//div[@class='product_name_3Lh3t']"));
@@ -92,9 +92,9 @@ public class FinalCase<string> {
            driver.switchTo().window(tabs.get(1));
 
            driver.findElement(By.xpath("//button[@class='button big with-icon']")).click(); //her seferinde satıcı değişiyor,ana sayfada açılan ürünü sepete ekliyoruz
-           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-2iZXl']")).click();
+           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']")).click();  //çarpı butonu
            driver.findElement(By.xpath("//button[@class='add-to-basket button small']")).click(); //her seferinde satıcı değişiyor,diğer satıcılardan aynı ürünü sepete ekliyoruz
-           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-2iZXl']")).click();
+           driver.findElement(By.xpath("//a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']")).click();  //çarpı butonu
            driver.findElement(By.xpath("//span[@id='shoppingCart']")).click();
 
            WebElement ürünAdı = driver.findElement(By.xpath("//div[@class='product_name_3Lh3t']"));
