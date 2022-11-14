@@ -47,9 +47,9 @@ Test02 - Kullanıcı Girişi Yapılarak Sepete Ürün Ekleme Testi
 
 **Java:** Projenin yazılmış olduğu programlama dilidir.
 
-**Selenium:** Web Sitesini test etmek için kullanılan test otomasyon aracıdır.
+**Selenium:** Web sitesini test etmek için kullanılan test otomasyon aracıdır.
 
-**Maven:** Java platformunda yer alan komutların derlenmesi, kütüphanelerin oluşturulması sırasında kullanılan araçtır.
+**Maven:** Javada yer alan komutların derlenmesi, kütüphanelerin oluşturulması sırasında kullanılan araçtır.
 
 **JUnit:** Java tabanlı kodların test edilmesi için kullanılan bir Unit Test (Birim Testi) kütüphanesidir.
 
