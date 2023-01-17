@@ -1,6 +1,6 @@
 <a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="90" height="60"/> </a>   
 
-# A101 Test Ototmasyon Practicum - Final Case
+# A101 Test Otomasyon Practicum - Final Case
 
 **İçerik:** Patika.dev ve A101 iş birliği ile hazırlanan test otomasyon programı sonunda talep edilen final projesidir.
 
